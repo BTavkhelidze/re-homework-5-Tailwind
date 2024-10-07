@@ -1,9 +1,11 @@
 import Header from '../Header/Header';
+import Content from '../MainContent/Content';
 
 const HomePage = () => {
   return (
-    <div className='relative  bg-red-300 m-auto sm:bg-yellow-500 '>
+    <div className='relative   m-auto  bg-gray-600'>
       <Header />
+      <Content />
     </div>
   );
 };
