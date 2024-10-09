@@ -3,7 +3,7 @@ import Content from '../MainContent/Content';
 
 const HomePage = () => {
   return (
-    <div className='relative   m-auto  bg-gray-600'>
+    <div className='relative   m-auto  bg-[#141414]'>
       <Header />
       <Content />
     </div>

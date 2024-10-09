@@ -32,7 +32,7 @@ const Greeting = () => {
           <img
             src={watchingNow}
             alt='watch now'
-            className='w-[15.3px] h-[16.45px] 2xl:w-[17.9px] 2xl:h-[19.2px]'
+            className='w-[15.3px] h-[16.45px] 2xl:w-[17.9px] 2xl:h-s[19.2px]'
           />
           <span className='text-[#ffffff]'>Start Watching Now</span>
         </Button>

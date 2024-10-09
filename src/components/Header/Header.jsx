@@ -6,7 +6,7 @@ import notificationSvg from '../../assets/svg/notification.svg';
 
 const Header = () => {
   return (
-    <header className=' flex justify-between mx-4 mt-[46.5px] mb-[20.5px] sm:mx-10  lg:mx-20 lg:my-[18px] 2xl:mx-[162px] 2xl:my-6 '>
+    <header className=' flex justify-between mx-4 pt-[46.5px] pb-[20.5px] sm:px-10  lg:mx-20 lg:py-[18px] 2xl:mp-[162px] 2xl:py-6 '>
       <div className='flex justify-center items-center'>
         <img src={headerSvg} alt='Logo' />
       </div>
