@@ -13,7 +13,7 @@ const Devices = () => {
       {' '}
       <div className='flex  flex-col '>
         <div className='flex  flex-col 2xl:gap-[14px] lg:gap-[10px]'>
-          <h3 className='2xl:text-[38px] lg:text-12 text-[24px] leading-[36px] 2xl:leading-[57px] lg:leading-[42px] text-white  '>
+          <h3 className='2xl:text-[38px] lg:text-[28px] text-[24px] leading-[36px] 2xl:leading-[57px] lg:leading-[42px] text-white  '>
             We Provide you streaming experience across various devices.
           </h3>
           <p className='text-[#999999] 2xl:text-[18px] 2xl:leading-[27px] lg:text-[16px] lg:leading-6 text-[14px] leading-[21px]'>
@@ -24,7 +24,7 @@ const Devices = () => {
           </p>
         </div>
         <div className='mt-[40px] lg:mt-[60px] 2xl:mt:[80px] grid grid-cols-1 lg:grid-cols-3 lg:grid-rows-2 gap-[20px] 2xl:gap-[30px]'>
-          <div className='w-full flex flex-col bg-[#0f0f0f] text-white 2xl:p-[50px] lg:p-10 p-[24px] gap-[20px]  2xl:gap-[30px] lg:gap-[24px] 2xl:rounded-xl lg:rounded-[10px] rounded-lg border-[1px] border-[#1f1f1f]'>
+          <div className='w-full flex flex-col bg-[#0f0f0f] text-white 2xl:p-[50px] lg:p-10 p-[24px] gap-[20px]  2xl:gap-[30px] lg:gap-[24px] 2xl:rounded-xl lg:rounded-[10px] rounded-lg border-[1px] border-[#1f1f1f] background-custom-gradient'>
             <div className='flex items-center  gap-[10px]  2xl:gap-4 lg:gap-3'>
               <div className='2xl:w-[72px] 2xl:h-[72px] lg:w-[58px] lg:h-[58px] w-[44px] h-[44px] flex justify-center items-center bg-[#141414] 2xl:rounded-xl lg:rounded-[10px] rounded-lg border-[1px] border-[#1f1f1f]  '>
                 <img
